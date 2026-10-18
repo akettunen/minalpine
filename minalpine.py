@@ -1,3 +1,4 @@
+# Copyright akettunen 2026
 import sys
 import platform
 import argparse
